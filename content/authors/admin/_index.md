@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.
+title: Antonio Di Maio
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -34,11 +34,11 @@ profiles:
     url: 'mailto:antonio.dimaio@unibe.ch'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/AntonioDiMaio
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/admaio
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dimaioantonio/
   - icon: academicons/google-scholar
@@ -49,13 +49,13 @@ profiles:
 interests:
   - Mobile Networking
   - Distributed Artificial Intelligence
-  - Resource-constrained Federated Learning
+  - Constrained Federated Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Telecommunication Engineering
+    institution: University of Luxembourg
+    date_start: 2016-04-01
+    date_end: 2020-06-03
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Antonio Di Maio is a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence at the University of Bern, in the Communication and Distributed Systems Group led by Prof. Dr. Torsten Braun. He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking.
+He was the Lecturer of Decision Making at the United Business Institutes and Teaching Assistant for the Bachelor courses in Compter Networks and Operating Systems from 2020 to date. He received the award "Recognition of Outstanding Teaching Achievements" and the "Faculty Teaching Award for Young Scientists" for his course on Mobile Quantum Networking in 2023.
+He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control".
