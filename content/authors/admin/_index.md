@@ -95,12 +95,12 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+  - position: Postdoctoral Research Associate
+    company_name: University of Bern, Switzerland
+    company_url: 'https://www.cds.unibe.ch/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: ''
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -124,43 +124,43 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 99
+  # - name: Mandarin Chinese
+  #   percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Best Student Paper Award
+    url: https://noms2024.ieee-noms.org/sites/noms2024.ieee-noms.org/files/Best%20Student%20Paper%20Award_NOMS%202024.pdf
+    date: '2024-05-10'
+    awarder: IEEE/IFIP NOMS 2024
+    icon: IEEE
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Award received for the paper "Drift-Aware Policy Selection for Slice Admission Control" by Jesutofunmi Ajayi, Antonio Di Maio, and Torsten Braun, presented at the IEEE/IFIP Network Operations and Management Symposium (NOMS) 2024. Date: 9 May 2024. TPC Chairs: Baek-Young Choi, Myung-Sup Kim, Roberto Riggio.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
