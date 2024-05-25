@@ -168,7 +168,7 @@ awards:
     summary: |
       The Department of Mathematics/Statistics/Computer Science selected the online international Virtual Exchange seminar series "Quantum Mobile Networks", held in the Spring Semester of 2023, to receive the "Faculty Teaching Award for Young Scientists" in the Faculty of Science of the University of Bern.
   - title: Recognition of Outstanding Teaching Achievements
-    date: '2023-08-'
+    date: '2023-09-18'
     awarder: University of Bern
     icon: UBern
     summary: |
