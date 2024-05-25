@@ -1,0 +1,73 @@
+---
+title: A novel approach to evaluate blood parameters using computer vision techniques
+authors:
+- V. Bevilacqua
+- G. Dimauro
+- F. Marino
+- A. Brunetti
+- F. Cassano
+- Antonio Di Maio
+- E. Nasca
+- G. F. Trotta
+- F. Girardi
+- A. Ostuni
+- A. Guarini
+date: '2016-05-01'
+publishDate: '2024-05-25T00:58:24.371351Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings of the 2016 IEEE International Symposium on Medical Measurements
+  and Applications (MeMeA)*'
+doi: 10.1109/MeMeA.2016.7533760
+abstract: Current medical practice for determining hemoglobin concentration (which
+  is especially important for anemic patients in need of blood transfusion) involves
+  frequent blood tests. In this work, we propose an alternative, non-invasive approach
+  to hemoglobin estimation, based on image analysis of a specific conjunctival region.
+  Our ultimate goal is to develop an easy-to-use wearable device that patients themselves
+  can employ at home to autonomously assess their need of blood transfusion. In this
+  paper, we detail the prototype of our device and the methodology for extracting
+  key information from the color values of the acquired image. Tests conducted on
+  77 anemic and healthy patients show significant correlation between the real hemoglobin
+  value obtained through blood sampling and the value estimated by our algorithm.
+  A prototypical binary classification algorithm for assessing the need of blood transfusion
+  yielded good results in terms of accuracy, specificity and sensitivity, thus making
+  it possible to avoid a significant number of blood tests.
+tags:
+- Correlation
+- acquired image
+- alternative noninvasive approach
+- anemic patients
+- biomedical equipment
+- biomedical optical imaging
+- blood
+- Blood
+- blood parameters
+- blood sampling
+- blood transfusion
+- body sensor networks
+- color values
+- computer vision
+- computer vision techniques
+- conjunctiva
+- easy-to-use wearable device
+- Eyelids
+- feature extraction
+- frequent blood tests
+- hemoglobin
+- hemoglobin concentration estimation
+- image analysis
+- image classification
+- Image color analysis
+- image colour analysis
+- Image edge detection
+- Image segmentation
+- key information extraction
+- medical practice
+- Medical services
+- molecular biophysics
+- non-invasive
+- proteins
+- prototypical binary classification algorithm
+- real hemoglobin value
+- specific conjunctival region
+---

@@ -1,0 +1,45 @@
+---
+title: An Online Multi-dimensional Knapsack Approach for Slice Admission Control
+authors:
+- Jesutofunmi Ajayi
+- Antonio Di Maio
+- Torsten Braun
+- Dimitrios Xenakis
+date: '2023-01-01'
+publishDate: '2024-05-25T00:58:24.536553Z'
+publication_types:
+- paper-conference
+publication: '*2023 IEEE 20th Consumer Communications & Networking Conference (CCNC)*'
+doi: 10.1109/CCNC51644.2023.10060460
+abstract: Network Slicing has emerged as a powerful technique to enable cost-effective,
+  multi-tenant communications and services over a shared physical mobile network infrastructure.
+  One major challenge of service provisioning in slice-enabled networks is the uncertainty
+  in the demand for the limited network resources that must be shared among existing
+  slices and potentially new Network Slice Requests. In this paper, we consider admission
+  control of Network Slice Requests in an online setting, with the goal of maximizing
+  the long-term revenue received from admitted requests. We model the Slice Admission
+  Control problem as an Online Multidimensional Knapsack Problem and present two reservation-based
+  policies and their algorithms, which have a competitive performance for Online Multidimensional
+  Knapsack Problems. Through Monte Carlo simulations, we evaluate the performance
+  of our online admission control method in terms of average revenue gained by the
+  Infrastructure Provider, system resource utilization, and the ratio of accepted
+  slice requests. We compare our approach with those of the online First Come First
+  Serve greedy policy. The simulation's results prove that our proposed online policies
+  increase revenues for Infrastructure Providers by up to 12.9 % while reducing the
+  average resource consumption by up to 1.7% In particular, when the tenants' economic
+  inequality increases, an Infrastructure Provider who adopts our proposed online
+  admission policies gains higher revenues compared to an Infrastructure Provider
+  who adopts First Come First Serve.
+tags:
+- Resource management
+- Simulation
+- Network slicing
+- Uncertainty
+- Monte Carlo methods
+- Admission control
+- Admission Control
+- Economics
+- Mobile Networks
+- Network Slicing
+- Online Algorithms
+---
