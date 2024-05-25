@@ -63,10 +63,10 @@ education:
       url: 'https://example.com'
   - area: MEng Computer Engineering
     institution: Polytechnic of Bari, Italy
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2013-11
+    date_end: 2016-02
     summary: |
-      GPA: 3.8/4.0
+      GPA: 29.5/30.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
