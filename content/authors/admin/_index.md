@@ -158,7 +158,7 @@ awards:
     url: https://noms2024.ieee-noms.org/sites/noms2024.ieee-noms.org/files/Best%20Student%20Paper%20Award_NOMS%202024.pdf
     date: '2024-05-10'
     awarder: IEEE/IFIP NOMS 2024
-    icon: IEEE
+    icon: ieee
     summary: |
       Award received for the paper "Drift-Aware Policy Selection for Slice Admission Control" by Jesutofunmi Ajayi, Antonio Di Maio, and Torsten Braun, presented at the IEEE/IFIP Network Operations and Management Symposium (NOMS) 2024. Date: 9 May 2024. TPC Chairs: Baek-Young Choi, Myung-Sup Kim, Roberto Riggio.
   - title: Faculty Teaching Award for Young Scientists
@@ -177,7 +177,7 @@ awards:
     url: https://coe.northeastern.edu/Groups/wowmom2023/
     date: '2023-06-15'
     awarder: IEEE WoWMoM 2023
-    icon: IEEE
+    icon: ieee
     summary: |
       The online international Virtual Exchange seminar series "Quantum Mobile Networks" was selected among the best 11 courses in the University of Bern's course offer regarding student satisfaction feedback for the Spring Semester of 2023.
 ---
