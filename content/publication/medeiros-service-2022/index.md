@@ -1,0 +1,34 @@
+---
+title: 'Service Chaining Graph: Latency- and Energy-aware Mobile VR Deployment over
+  MEC Infrastructures'
+authors:
+- Alisson Medeiros
+- Antonio Di Maio
+- Torsten Braun
+- Augusto Neto
+date: '2022-08-01'
+publishDate: '2024-05-25T00:58:24.441459Z'
+publication_types:
+- paper-conference
+publication: '*IEEE Global Communications Conference (GLOBECOM 2022)*'
+abstract: Perceptual studies show that the Quality of Service (QoS) of large-scale
+  Mobile Virtual Reality (MVR) applications is positively correlated to video frame
+  rate and the duration of the immersive experience. These metrics depend on the sum
+  of computation and network latency needed to generate and deliver a video frame
+  to the Head-Mounted Display (HMD) and the power consumption on the HMD. Recent research
+  shows that Multi-access Edge Computing (MEC) can support mobile HMDs to reduce their
+  computing latency, but its potential to maintain the acceptable end-to-end (E2E)
+  latency and reduce power consumption under high mobility conditions remains unexplored.
+  This paper proposes Service Chaining Graph (SCG), an orchestrator to split VR applications
+  into atomic services and deploy them across HMDs and MEC servers according to an
+  optimization problem that aims to jointly minimize latency and energy consumption.
+  Through simulations, we show that SCG reduces E2E latency by up to 74% in three
+  high-mobility userdense scenarios compared to four widely used service-migration
+  strategies against a moderate increase in power consumption. Unlike other approaches,
+  SCG can find a balance between average latency and energy consumption by migrating
+  services between MEC servers and HMDs according to a policy depending on application
+  requirements.
+links:
+- name: URL
+  url: https://globecom2022.ieee-globecom.org/
+---
