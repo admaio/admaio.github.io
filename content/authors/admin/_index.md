@@ -72,24 +72,24 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BEng Automation and Computer Engineering
+    institution: Polytechnic of Bari, Italy
+    date_start: 2009-09-10
+    date_end: 2013-07-23
     summary: |
-      GPA: 3.4/4.0
+      GPA: 28.7/30.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Lecturer in Quantum Mobile Networks
+    company_name: University of Bern, Switzerland
+    company_url: 'https://www.cds.unibe.ch/studies/past_lectures/spring_semester_2023/seminar_quantum_mobile_networks/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-02-01
+    date_end: 2023-07-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
