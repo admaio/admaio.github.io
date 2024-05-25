@@ -1,5 +1,5 @@
 ---
-title: 6G-CLOUD: Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems
+title: '6G-CLOUD: Service-oriented 6G Network Architecture for Distributed, Intelligent, and Sustainable Cloud-native Communication Systems'
 date: 2024-01-01
 external_link: https://cordis.europa.eu/project/id/101139073
 tags:
