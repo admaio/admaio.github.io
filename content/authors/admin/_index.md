@@ -20,13 +20,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-# role: SNSF Ambizione Fellow
-role: Postdoctoral Researcher
+role: SNSF Ambizione Fellow (incoming)
+# role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Bern
-    url: https://unibe.ch/
+  - name: ETH Zurich
+    url: https://ethz.ch/
+  # - name: University of Bern
+  #   url: https://unibe.ch/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +52,7 @@ profiles:
 interests:
   - Mobile Networking
   - Distributed Artificial Intelligence
-  - Constrained Federated Learning
+  - Resource-constrained Federated Learning
 
 education:
   - area: PhD Telecommunication Engineering
@@ -58,33 +60,45 @@ education:
     date_start: 2016-04-01
     date_end: 2020-06-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: "Routing Strategies and Content Dissemination Techniques for Software-Defined Vehicular Networks", supervised by [Prof. Dr. Thomas Engel](https://www.uni.lu/fstm-en/people/thomas-engel/) and [Dr. Maria Rita Palattella](https://scholar.google.com/citations?user=dy5kQecAAAAJ&hl=it).
+      Published articles for 7 IEEE conferences and 2 journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://orbilu.uni.lu/handle/10993/43560'
   - area: MEng Computer Engineering
     institution: Polytechnic of Bari, Italy
     date_start: 2013-11-26
     date_end: 2016-02-24
     summary: |
-      GPA: 29.5/30.0
+      Final grade: 110/110 summa cum laude. GPA: 29.5/30.0.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Master's Thesis in "Human-Machine Interaction" with title: "Design of an application for tracking a human target with a drone".
   - area: BEng Automation and Computer Engineering
     institution: Polytechnic of Bari, Italy
     date_start: 2009-09-10
     date_end: 2013-07-23
     summary: |
-      GPA: 28.7/30.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Final grade: 110/110 summa cum laude. GPA: 28.7/30.0.
+
+      Bachelor's Thesis in "Image Processing and Artificial Vision" with title: "Design and implementation of an eye blink detection Android application".
+
 work:
+  - position: Established Researcher II (incoming)
+    company_name: ETH Zurich, Switzerland
+    company_url: 'https://www.ethz.ch/'
+    company_logo: ''
+    date_start: 2025-09-01
+    date_end: 2029-08-31
+    summary: |
+      Self-funded position under the SNSF project [eDIAMOND](https://data.snf.ch/grants/grant/223443).
+  - position: Advanced Postdoc
+    company_name: University of Bern, Switzerland
+    company_url: 'https://www.cds.unibe.ch/'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 2025-08-31
+    summary: |
+      Working on Decentralized and Distributed Resource-constrained Artificial Intelligence on Mobile Networks.
   - position: Lecturer in Quantum Mobile Networks
     company_name: University of Bern, Switzerland
     company_url: 'https://www.cds.unibe.ch/studies/past_lectures/spring_semester_2023/seminar_quantum_mobile_networks/'
@@ -92,21 +106,25 @@ work:
     date_start: 2023-02-01
     date_end: 2023-07-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Postdoctoral Research Associate
+      Coordinating a series of international, inter-university, fully-online, seminars joining Quantum Communications and Mobile Networking. [VIDEO](https://www.youtube.com/playlist?list=PLxxN6G9E_z5qdruIb2cofe5EzgmIEzKFH)
+  - position: Early Postdoc
     company_name: University of Bern, Switzerland
     company_url: 'https://www.cds.unibe.ch/'
     company_logo: ''
     date_start: 2020-09-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2024-08-31
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+  - position: Postdoctoral Research Associate
+    company_name: University of Bern, Switzerland
+    company_url: 'https://www.cds.unibe.ch/'
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-08-31
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,13 +160,13 @@ work:
   #       percent: 80
   #       icon: camera
 
-# languages:
-#   - name: Italian
-#     percent: 100
-#   - name: English
-#     percent: 99
-  # - name: Mandarin Chinese
-  #   percent: 10
+languages:
+  - name: Italian
+    percent: 100
+  - name: English
+    percent: 99
+  - name: Mandarin Chinese
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -185,6 +203,13 @@ awards:
 
 ## About Me
 
-Antonio Di Maio is a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence at the University of Bern, in the Communication and Distributed Systems Group led by Prof. Dr. Torsten Braun. He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking.
+I am an (incoming) SNSF Ambizione Fellow at the ETH Zurich, hosted by Prof. Dr. Roger Wattenhofer.
+<!-- Previously, I was a -->
+Currently, I am a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence at the University of Bern, in the Communication and Distributed Systems Group led by Prof. Dr. Torsten Braun.
+He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking.
+<!-- He was the Lecturer of Decision Making at the United Business Institutes and Teaching Assistant for the Bachelor courses in Compter Networks and Operating Systems from 2020 to date. He received the award "Recognition of Outstanding Teaching Achievements" and the "Faculty Teaching Award for Young Scientists" for his course on Mobile Quantum Networking in 2023.
+He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control". -->
+
+<!-- Antonio Di Maio is a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence at the University of Bern, in the Communication and Distributed Systems Group led by Prof. Dr. Torsten Braun. He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking.
 He was the Lecturer of Decision Making at the United Business Institutes and Teaching Assistant for the Bachelor courses in Compter Networks and Operating Systems from 2020 to date. He received the award "Recognition of Outstanding Teaching Achievements" and the "Faculty Teaching Award for Young Scientists" for his course on Mobile Quantum Networking in 2023.
-He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control".
+He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control". -->

@@ -14,7 +14,7 @@ publication_types:
 publication: '*Proceedings of the 36th IEEE International Conference on Computer Communications
   Workshops  (INFOCOM Workshops 2017)*'
 doi: 10.1109/INFCOMW.2017.8116443
-abstract: The increasing interest in vehicular communications draws attention to scalability
+abstract: THIS IS A TEST The increasing interest in vehicular communications draws attention to scalability
   and network congestion problems and therefore on techniques to offload the traffic,
   typically carried through the infrastructure, to the Vehicle-to-vehicle (V2V) network.
   Floating content (FC) represents a promising paradigm to share ephemeral content
