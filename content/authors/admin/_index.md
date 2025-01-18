@@ -72,7 +72,7 @@ education:
     summary: |
       Final grade: 110/110 summa cum laude. GPA: 29.5/30.0.
 
-      Master's Thesis in "Human-Machine Interaction" with title: "Design of an application for tracking a human target with a drone".
+      Master's Thesis in "Human-Machine Interaction" with title: "Design of an application for tracking a human target with a drone (<a href="https://www.youtube.com/watch?v=RzrA1blOfI4">VIDEO</a>)".
   - area: BEng Automation and Computer Engineering
     institution: Polytechnic of Bari, Italy
     date_start: 2009-09-10
@@ -80,7 +80,7 @@ education:
     summary: |
       Final grade: 110/110 summa cum laude. GPA: 28.7/30.0.
 
-      Bachelor's Thesis in "Image Processing and Artificial Vision" with title: "Design and implementation of an eye blink detection Android application".
+      Bachelor's Thesis in "Image Processing and Artificial Vision" with title: "Design and implementation of an eye blink detection Android application (<a href="https://youtu.be/R8m4ovTZSYA">VIDEO</a>)".
 
 work:
   - position: Established Researcher II (incoming)
@@ -90,7 +90,7 @@ work:
     date_start: 2025-09-01
     date_end: 2029-08-31
     summary: |
-      Self-funded position under the SNSF project [eDIAMOND](https://data.snf.ch/grants/grant/223443).
+      Self-funded position under the SNSF project <a href="https://data.snf.ch/grants/grant/223443">eDIAMOND</a>.
   - position: Advanced Postdoc
     company_name: University of Bern, Switzerland
     company_url: 'https://www.cds.unibe.ch/'
@@ -106,7 +106,7 @@ work:
     date_start: 2023-02-01
     date_end: 2023-07-31
     summary: |2-
-      Coordinating a series of international, inter-university, fully-online, seminars joining Quantum Communications and Mobile Networking. [VIDEO](https://www.youtube.com/playlist?list=PLxxN6G9E_z5qdruIb2cofe5EzgmIEzKFH)
+      Coordinating a series of international, inter-university, fully-online, seminars joining Quantum Communications and Mobile Networking (<a href="https://www.youtube.com/playlist?list=PLxxN6G9E_z5qdruIb2cofe5EzgmIEzKFH">VIDEO</a>).
   - position: Early Postdoc
     company_name: University of Bern, Switzerland
     company_url: 'https://www.cds.unibe.ch/'
@@ -203,10 +203,12 @@ awards:
 
 ## About Me
 
-I am an (incoming) SNSF Ambizione Fellow at the ETH Zurich, hosted by Prof. Dr. Roger Wattenhofer.
-<!-- Previously, I was a -->
-Currently, I am a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence at the University of Bern, in the Communication and Distributed Systems Group led by Prof. Dr. Torsten Braun.
+I will be an SNSF Ambizione Fellow at the ETH Zurich in September 2025, hosted by the <a href="https://disco.ethz.ch/">Distributed Computing (DISCO) group</a> at ETH Zürich, Switzerland.
+I am now a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence in the https://www.cds.unibe.ch/ <a href="https://disco.ethz.ch/">Communication and Distributed Systems (CDS) group</a>  at the University of Bern, Switzerland.
 
+My research focuses on Decentralized and Distributed Artificial Intelligence on Mobile Resource-constrained Networks. I study methods to design and operate systems in which a large number of independent mobile devices with limited computation, communication, energy, and sensing capacity cooperate to build a global intelligence through opportunistic knowledge exchange and workload sharing.
+
+<!-- led by Prof. Dr. Torsten Braun. -->
 <!-- He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking. -->
 <!-- He was the Lecturer of Decision Making at the United Business Institutes and Teaching Assistant for the Bachelor courses in Compter Networks and Operating Systems from 2020 to date. He received the award "Recognition of Outstanding Teaching Achievements" and the "Faculty Teaching Award for Young Scientists" for his course on Mobile Quantum Networking in 2023.
 He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control". -->
