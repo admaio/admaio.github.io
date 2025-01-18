@@ -60,7 +60,7 @@ education:
     date_start: 2016-04-01
     date_end: 2020-06-03
     summary: |
-      Thesis: "Routing Strategies and Content Dissemination Techniques for Software-Defined Vehicular Networks", supervised by [Prof. Dr. Thomas Engel](https://www.uni.lu/fstm-en/people/thomas-engel/) and [Dr. Maria Rita Palattella](https://scholar.google.com/citations?user=dy5kQecAAAAJ&hl=it).
+      Thesis: "Routing Strategies and Content Dissemination Techniques for Software-Defined Vehicular Networks", supervised by <a href="https://www.uni.lu/fstm-en/people/thomas-engel/">Prof. Dr. Thomas Engel</a> and <a href="https://scholar.google.com/citations?user=dy5kQecAAAAJ&hl=it">Dr. Maria Rita Palattella</a>.
       Published articles for 7 IEEE conferences and 2 journals.
     button:
       text: 'Read Thesis'
@@ -206,7 +206,8 @@ awards:
 I am an (incoming) SNSF Ambizione Fellow at the ETH Zurich, hosted by Prof. Dr. Roger Wattenhofer.
 <!-- Previously, I was a -->
 Currently, I am a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence at the University of Bern, in the Communication and Distributed Systems Group led by Prof. Dr. Torsten Braun.
-He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking.
+
+<!-- He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking. -->
 <!-- He was the Lecturer of Decision Making at the United Business Institutes and Teaching Assistant for the Bachelor courses in Compter Networks and Operating Systems from 2020 to date. He received the award "Recognition of Outstanding Teaching Achievements" and the "Faculty Teaching Award for Young Scientists" for his course on Mobile Quantum Networking in 2023.
 He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control". -->
 
