@@ -25,7 +25,7 @@ role: SNSF Ambizione Fellow (incoming)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ETH Zurich
+  - name: ETH Zürich, Switzerland
     url: https://ethz.ch/
   # - name: University of Bern
   #   url: https://unibe.ch/
@@ -84,7 +84,7 @@ education:
 
 work:
   - position: Established Researcher II (incoming)
-    company_name: ETH Zurich, Switzerland
+    company_name: ETH Zürich, Switzerland
     company_url: 'https://www.ethz.ch/'
     company_logo: ''
     date_start: 2025-09-01
@@ -203,8 +203,8 @@ awards:
 
 ## About Me
 
-I will be an SNSF Ambizione Fellow at the ETH Zurich in September 2025, hosted by the <a href="https://disco.ethz.ch/">Distributed Computing (DISCO) group</a> at ETH Zürich, Switzerland.
-I am now a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence in the https://www.cds.unibe.ch/ <a href="https://disco.ethz.ch/">Communication and Distributed Systems (CDS) group</a>  at the University of Bern, Switzerland.
+I will be an SNSF Ambizione Fellow at the ETH Zürich in September 2025, hosted by the <a href="https://disco.ethz.ch/">Distributed Computing (DISCO) group</a> at ETH Zürich, Switzerland.
+I am now a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence in the <a href="https://www.cds.unibe.ch/">Communication and Distributed Systems (CDS)</a>  group at the University of Bern, Switzerland.
 
 My research focuses on Decentralized and Distributed Artificial Intelligence on Mobile Resource-constrained Networks. I study methods to design and operate systems in which a large number of independent mobile devices with limited computation, communication, energy, and sensing capacity cooperate to build a global intelligence through opportunistic knowledge exchange and workload sharing.
 

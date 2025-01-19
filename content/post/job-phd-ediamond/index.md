@@ -1,5 +1,5 @@
 ---
-title: Ph.D. Position in the SNSF eDIAMOND project
+title: '**NEW OPENING**: Ph.D. Student Position in the SNSF eDIAMOND project'
 summary: 'Start date: 1.9.2025, Workload 100%, Zurich (in-person), fixed-term (4 years)'
 date: 2025-01-18
 
@@ -17,17 +17,25 @@ tags:
   - eDIAMOND
 ---
 
-## Overview
-
-Ph.D. Position in the SNSF eDIAMOND project ... TBD
-
 ## Job description
 
-TBD
+The Distributed Computing group at the ETH Zürich is looking for a Ph.D. Student for the upcoming SNSF project eDIAMOND: Efficient Distributed Intelligent Applications in Mobile-Network Dynamics.
+The candidate will participate on three main activities during their studies. First, they will develop data-driven methods for distributing model training and inference over a network of resource-constrained devices. Second, they will investigate methods for online adaptation of Federated Neural Network Architectures based on the available system resources, such as communication, computation, and energy. Finally, the candidate will study methods for communication-efficient knowledge exchange among federated large models.
 
 ## Your Profile
 
-TBD
+The candidate must have:
+  - A Master degree in Computer Science, Computer Engineering, or related fields
+  - A strong interest and and extensive experience with various Federated Learning paradigms, Decentralized and Distributed Systems, Reinforcement Learning, both theoretical and practical
+  - Strong English communication skills (Oral and written)
+  - Experience with scientific writing (e.g., reports, articles)
+
+Bonus points:
+  - At least one published peer-reviewed article on project-related topics
+  - Knowledge of wireless communications (e.g. IEEE 802.11), and computer networks
+  - Experience with network simulators such as OMNeT++ or NS-3
+  - Experience with High Performance Computing (i.e., SLURM)
+  - Experience with Git and open-source software  
 
 ## Your Workplace
 
@@ -37,17 +45,18 @@ Visit our Equal Opportunities and Diversity website to find out how we ensure a 
 
 ## How to apply
 
-Please note that we exclusively accept applications submitted through our ETH job portal. Applications via email or postal services will not be considered. Please provide the following documents:
+Please note that we exclusively accept applications submitted through our  [**ETH Job Portal**](https://jobs.ethz.ch/). Applications via email or postal services will not be considered. Please provide the following documents:
 
   - Motivation letter
   - CV
   - Diplomas and certificates
+  - Names and email addresses of people who could provide a reference letter (optional but suggested)
 
 Questions regarding the position should be directed to Antonio Di Maio, antonio.dimaio@unibe.ch (no applications). For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
 ## About ETH Zürich
 
-ETH Zurich is one of the world’s leading universities specialising in science and technology. We are renowned for our excellent education, cutting-edge fundamental research and direct transfer of new knowledge into society. Over 30,000 people from more than 120 countries find our university to be a place that promotes independent thinking and an environment that inspires excellence. Located in the heart of Europe, yet forging connections all over the world, we work together to develop solutions for the global challenges of today and tomorrow.
+ETH Zurich is one of the world’s leading universities specialising in science and technology (ranked 6th worldwide in Engineering and Technology by QS and ranked 5th worldwide in Computer Science by THE in 2024). We are renowned for our excellent education, cutting-edge fundamental research and direct transfer of new knowledge into society. Over 30,000 people from more than 120 countries find our university to be a place that promotes independent thinking and an environment that inspires excellence. Located in the heart of Europe, yet forging connections all over the world, we work together to develop solutions for the global challenges of today and tomorrow.
 
 <!-- 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
