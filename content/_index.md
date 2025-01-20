@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-01-20
 type: landing
 
 design:
@@ -15,11 +15,13 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
+      # button:
+      #   text: Download CV
+      #   url: uploads/cv_dimaio.pdf
+      buttons:
+        - text: Download CV
         url: uploads/cv_dimaio.pdf
-      button:
-        text: Publication List
+        - text: Publication List
         url: uploads/publications_dimaio.pdf
     # design:
     #   css_class: dark
