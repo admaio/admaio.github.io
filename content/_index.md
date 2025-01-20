@@ -15,14 +15,18 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/cv_dimaio.pdf
-      buttons:
-        - text: Download CV
+      button:
+        text: Download CV
         url: uploads/cv_dimaio.pdf
-        - text: Publication List
+    content:
+      button: Publication List
         url: uploads/publications_dimaio.pdf
+
+      # buttons:
+      #   - text: Download CV
+      #   url: uploads/cv_dimaio.pdf
+      #   - text: Publication List
+      #   url: uploads/publications_dimaio.pdf
     # design:
     #   css_class: dark
     #   background:
