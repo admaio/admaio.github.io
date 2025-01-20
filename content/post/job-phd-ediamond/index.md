@@ -20,7 +20,9 @@ tags:
 ## Job description
 
 The Distributed Computing group at the ETH Zürich is looking for a Ph.D. Student for the upcoming SNSF project eDIAMOND: Efficient Distributed Intelligent Applications in Mobile-Network Dynamics.
-The candidate will participate on three main activities during their studies. First, they will develop data-driven methods for distributing model training and inference over a network of resource-constrained devices. Second, they will investigate methods for online adaptation of Federated Neural Network Architectures based on the available system resources, such as communication, computation, and energy. Finally, the candidate will study methods for communication-efficient knowledge exchange among federated large models.
+The candidate will participate on three main activities during their studies. First, the candidate will develop data-driven methods for distributing model training and inference over a network of resource-constrained devices. Second, the candidate will investigate methods for online adaptation of Federated Neural Network Architectures based on the available system resources, such as communication, computation, and energy. Finally, the candidate will study methods for communication-efficient knowledge exchange among federated large models.
+
+The candidate will be supervised by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger) and [**Dr. Antonio Di Maio**](https://admaio.github.io/).
 
 ## Your Profile
 
@@ -45,12 +47,12 @@ Visit our Equal Opportunities and Diversity website to find out how we ensure a 
 
 ## How to apply
 
-Please note that we exclusively accept applications submitted through our  [**ETH Job Portal**](https://jobs.ethz.ch/). Applications via email or postal services will not be considered. Please provide the following documents:
+Please note that we exclusively accept applications submitted through our [**ETH Job Portal**](https://jobs.ethz.ch/). Applications via email or postal services will not be considered. Please provide the following documents:
 
   - Motivation letter
   - CV
   - Diplomas and certificates
-  - Names and email addresses of people who could provide a reference letter (optional but suggested)
+  - Names and email addresses of references who could provide a recommendation letter
 
 Questions regarding the position should be directed to Antonio Di Maio, antonio.dimaio@unibe.ch (no applications). For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
