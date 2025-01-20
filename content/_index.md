@@ -18,10 +18,10 @@ sections:
       button:
         text: Download CV
         url: uploads/cv_dimaio.pdf
-    content:
-      button:
-        text: Publication List
-        url: uploads/publications_dimaio.pdf
+    # content:
+    #   button:
+    #     text: Publication List
+    #     url: uploads/publications_dimaio.pdf
 
       # buttons:
       #   - text: Download CV
