@@ -1,7 +1,7 @@
 ---
 title: 'PhD Position in Decentralized Resource-Constrained Machine Learning'
 summary: 'Start date: 1.9.2025, Workload 100%, Zurich (in-person), fixed-term (4 years)'
-date: 2025-02-02
+date: 2025-02-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -22,36 +22,94 @@ tags:
 The [**Distributed Computing (DISCO) Group**](http://disco.ethz.ch/publications.html) is a research group at ETH Zürich, led by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger).
 We are interested in a variety of research topics on new and upcoming areas off the beaten paths. Our three main areas of research are machine learning, distributed systems, and theory of networks.
 Within these three areas, we are currently working on several projects: graph neural networks, natural language processing, algorithmic learning, fault-tolerance, blockchains, consensus, cryptocurrencies, digital money, central bank digital currency, decentralized finance, financial networks, e-democracy, voting, social networks, online analysis with delay, and theory of distributed algorithms.
+In our group, we work on both theory and practice: some members of our group focus on algorithms and mathematical proofs, and some on system design and building. 
 
 ## Job description
 
-The Distributed Computing group at the ETH Zürich is looking for a Ph.D. candidate for the upcoming [**SNSF Ambizione 2023 project "eDIAMOND: Efficient Distributed Intelligent Applications in Mobile-Network Dynamics"**](https://data.snf.ch/grants/grant/223443), which aims at developing new methods and systems for decentralized and distributed data-driven methods for Machine Learning on resource-constrained networks.
+The Distributed Computing group at the ETH Zürich is looking for a Ph.D. candidate to work on the [**SNSF Ambizione 2023 project "eDIAMOND: Efficient Distributed Intelligent Applications in Mobile-Network Dynamics"**](https://data.snf.ch/grants/grant/223443), starting on 1 September 2025
+The eDIAMOND project aims at developing new methods and systems for decentralized and distributed data-driven methods for Federated Learning on resource-constrained networks.
+Your research within the project will contribute towards your doctoral degree at ETH Zürich.
+You will be supervised by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger) and [**Dr. Antonio Di Maio**](https://admaio.github.io/).
+During the project, you will have the opportunity to have inter-institutional, cross-border, international collaboration with other top-ranked universities.
 
-In particular, the new member will be entrusted with three independent but related research directions.
-First, the candidate will develop data-driven methods for distributing model training and inference over a network of resource-constrained devices.
-Second, the candidate will investigate methods for online adaptation of Federated Neural Network Architectures based on the available system resources, such as communication, computation, and energy.
-Third, the candidate will study methods for communication-efficient knowledge exchange among federated large models.
+You will be entrusted with designing, developing, and evaluating data-driven methods, algorithms, and systems for three independent but related research directions in the eDIAMOND project, namely:
+1. Distributing model training and inference over a network of resource-constrained devices.
+1. Online, context-aware adaptation of Federated Neural Network Architectures based on the available system resources (e.g., communication, computation, energy).
+1. Communication-efficient knowledge exchange among networked federated large models.
 
-The candidate will be supervised by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger) and [**Dr. Antonio Di Maio**](https://admaio.github.io/).
+These research directions allow you to gradually build your own research profile according to your interests, while remaining within the project's goals.
+Each research direction is composed of a sequence of Tasks that will collectively achieve the project's goal.
+For each Task, you will be responsible for the typical scientific research workflow: motivating the problem, identifying the main methodological shortcomings in the literature, design and develop novel systems, plan and execute experiments, and report findings in articles to be published at top venues according to the project's schedule.
+Periodic meetings and feedbacks will ensure the success of your degree and of the project overall.
+
+### Terms of employment
+
+ETH Zürich is considered to be one of the top academic institutions in Europe.
+It is usually ranked in the top 10 in the world.
+Sometimes our area is ranked number [one](https://disco.ethz.ch/misc/ETHCSRanked1.pdf) in the world.
+The completion target for a Ph.D. is between 3 and 4 years, with a major milestone (PhD Aptitude Colloquium) at the end of the first year.
+
+#### Salary
+
+ETH offers some of the most competitive and attractive [salaries](https://ethz.ch/en/the-eth-zurich/working-teaching-and-research/welcome-center/employment-contract-and-salary/salary.html) worldwide. Salary will be determined based on the candidate's qualifications and experience, with five distinct salary ranks.
+
+#### Taxes and other deductions
+
+The income tax is currently about 8% for the above mentioned starting salary. The total deduction for social security, pension plan and accident insurance is about 13%. There is no tuition at ETH Zurich.
+
+#### Paid vacation
+
+Employees are entitled to 25 days of paid vacation per year.
+
+#### Health insurance
+
+Swiss residents are required to buy their own health insurance. The monthly premium for basic health insurance starts at approximately CHF 120, depending on your insurance plan.
+
+#### Work visa for foreign citizens
+
+The citizens of most EU-member countries are eligible to an immediate work visa in Switzerland. Citizens of new EU-member countries and candidates of other nationalities have to apply for a temporary work visa before entering Switzerland. ETH Zurich will take care of the due application process.
+
+#### Room and board, transportation
+
+ETH Zurich does not supply rooms or other housing opportunities on campus. Registered students are eligible for reduced prices at the campus’ cafeterias and special tariffs for public transportation.
+
+#### Other info
+
+- [The Ph.D. Survival Guide from ETH Zurich](https://www.avethdev.ethz.ch/aveth-survival-guide/)
+- [All about the doctorate at ETH Zurich](https://www.ethz.ch/en/doctorate.html)
 
 ## Your Profile
 
-The candidate must have:
-  - A strong interest and motivation to contribute to the eDIAMOND project's goals (see Job description section above)
-  - An excellent Master degree (or equivalent) in Computer Science, Engineering, Mathematics, or other fields related to the project's domain, from a reputable university and with a strong Transcript of Records.
-  - Theoretical and practical experience with various Federated Learning paradigms, Decentralized and Distributed Systems, and Multi-Agent Reinforcement Learning in partially-observable environments
-  - Strong programming skills (i.e., Python and main Machine Learning frameworks such as Pytorch)
-  - Experience with scientific writing (e.g., reports, articles, theses)
-  - Strong critical thinking, English communication skills (oral and written), and interpersonal abilities.
+We are looking for a new member with the following profile:
+  1. A strong interest and **motivation** to contribute to the eDIAMOND project's goals (see Job description section above)
+  1. **Theoretical and practical experience and passion** in at least one of the following topics (the more the better):
+      - **Machine Learning**: Deep Learning, Federated Learning, Split Learning, Model Selection, Knowledge Distillation, Low-Rank Adaptation (LoRA), Large Models (Language, Vision)
+      - **Decentralized and Distributed Systems**: Gossip Protocols, Consensus Algorithms, (Byzantine) Fault Tolerance, Peer-to-Peer Networks
+      - **Online Algorithms**: Partially-Observable Markov Decision Processes (POMDPs), Cooperative and Competitive Multi-Agent Reinforcement Learning (MARL), Multi-armed Bandits, Bayesian Optimization
+      - **Automated Model Design and Tuning**: Neural Architecture Search, Hyperparameter Optimization
+      - **Computer Networking**: Resource-Constrained Networking (e.g., Internet of Things), Wireless and Mobile Communications (e.g. IEEE 802.11, Bluetooth, etc.), Protocols (e.g., MAC, Network, and Transport)
+      - **Mathematics**: Statistical Learning, Stochastic Processes (e.g., Percolation Theory, Queuing Theory, Age of Information), Network Calculus, Graph Theory, Convex and Non-convex Optimization, Approximation Algorithms.
+  1. An excellent **Master's degree** (or equivalent) in Computer Science, Engineering, Mathematics, or other fields related to the project's domain, from a reputable university
+  1. A strong Transcript of Records, stating the list of passed exams (particularly those related to the project and the areas above) and their grades.
+  1. Strong programming skills (i.e., Python and main Machine Learning frameworks such as Pytorch)
+  1. Experience with scientific writing (e.g., reports, theses, and scientific articles)
+  1. Strong critical thinking, English communication skills (oral and written), interpersonal abilities, collaboration aptitude.
 
 Bonus points:
   - Published peer-reviewed articles on project-related topics in reputable conferences or journals
-  - Knowledge of wireless communications (e.g. IEEE 802.11, Bluetooth, etc.) and computer networks at several layers, especially MAC, Network, and Transport.
   - Experience with network simulators such as OMNeT++ or NS-3
   - Experience with High Performance Computing (i.e., SLURM)
   - Experience with Git
 
 ## Your Workplace
+
+<iframe
+        class="media__element"
+        allowfullscreen
+        src="https://www.google.com/maps/embed/v1/place?q=Gloriastrasse+35+8006+Zurich+Zurich+Switzerland&key=AIzaSyChW-yZSxAIkvbp_iJGxX1s65OwiPaWnyE"
+></iframe>
+
+## We offer
 
 ETH Zurich is a family-friendly employer with excellent working conditions. You can look forward to an exciting working environment, cultural diversity, and attractive offers and benefits.
 In line with our values, ETH Zurich encourages an inclusive culture. We promote equality of opportunity, value diversity and nurture a working and learning environment in which the rights and dignity of all our staff and students are respected.
@@ -59,27 +117,28 @@ Visit our Equal Opportunities and Diversity website to find out how we ensure a 
 
 [**Working, teaching and research at ETH Zurich**](https://ethz.ch/en/the-eth-zurich/working-teaching-and-research.html)
 
-## How to apply
+## Curious? So are we
 
 We look forward to receiving your online application with the following documents:
 
-  - A short letter of motivation
-  - A CV 
-  - The Transcripts of Records for both Bachelor and Master degrees, containing the list of courses taken and grades achieved.
+  - A short **letter of motivation**
+  - A **CV** 
+  - The **Transcripts of Records** for both Bachelor and Master degrees, containing the list of courses taken and grades achieved
   - Names and email addresses of people who could provide a recommendation/reference letter (between two and five)
   - Additional relevant documents: diplomas, certificates, theses, project reports, or published articles
 
 The letter of motivation's purpose is to assess your interest and motivation in pursuing research in the field of Decentralized Resource-constrained Machine Learning, and the match with the eDIAMOND project's goals.
 For example, you can mention:
 
-  - Your achievements and awards (e.g., participation to coding competitions, math olympiads, etc.) and how they can benefit eDIAMOND
+  - Your achievements and awards (e.g., participation to coding competitions, olympiads in math or computer science, etc.) and how they can benefit eDIAMOND
   - The strengths of your best scientific projects (e.g., thesis, report, article) and their relevance to eDIAMOND
   - New ideas on how to carry out research and design novel methods to specifically achieve the eDIAMOND goals (see Job description section)
-  - How to extend our previous works (see [**DISCO publications**](http://disco.ethz.ch/publications.html) and [**Dr. Di Maio**](https://scholar.google.com/citations?user=FCiOjOAAAAAJ&hl=en)) towards the eDIAMOND's goals
+  - How to extend our previous works (see publications by [**DISCO**](http://disco.ethz.ch/publications.html) and [**Dr. Di Maio**](https://scholar.google.com/citations?user=FCiOjOAAAAAJ&hl=en)) towards the eDIAMOND's goals
   - The subjects in which you have achieved excellent grades and how they are relevant to the project
   - Anything else that you believe is worth knowing about you and that will be essential for the project's success.
 
-Questions regarding the position should be directed to Antonio Di Maio, [**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch) (no applications). For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
+<!-- ([**dimaio@ethz.ch**](mailto:dimaio@ethz.ch)) -->
+Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)) or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)). For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
 Please note that we exclusively accept applications submitted through our [**ETH Job Portal**](https://jobs.ethz.ch/). Applications via email or postal services will *not* be considered.
 
