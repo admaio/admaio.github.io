@@ -92,7 +92,7 @@ We are looking for a new member with the following profile:
       - **Automated Model Design and Tuning**: Neural Architecture Search, Hyperparameter Optimization
       - **Computer Networking**: Resource-Constrained Networking (e.g., Internet of Things), Wireless and Mobile Communications (e.g. IEEE 802.11, Bluetooth, etc.), Protocols (e.g., MAC, Network, and Transport)
       - **Mathematics**: Statistical Learning, Stochastic Processes (e.g., Percolation Theory, Queuing Theory, Age of Information), Network Calculus, Graph Theory, Convex and Non-convex Optimization, Approximation Algorithms.
-  1. An excellent **Master's degree** (or equivalent) in Computer Science, Engineering, Mathematics, or other fields related to the project's domain, from a reputable university
+  1. An excellent **Master's degree** (or equivalent) in Computer Science, Engineering, Mathematics, or other fields related to the project's domain, from a reputable university, to be obtained at latest before 1 September 2025
   1. A strong Transcript of Records, stating the list of passed exams (particularly those related to the project and the areas above) and their grades.
   1. Strong programming skills (i.e., Python and main Machine Learning frameworks such as Pytorch)
   1. Experience with scientific writing (e.g., reports, theses, and scientific articles)
@@ -103,6 +103,8 @@ Bonus points:
   - Experience with network simulators such as OMNeT++ or ns-3
   - Experience with High Performance Computing (i.e., SLURM)
   - Experience with Git
+
+<!-- After selection, you will apply to the ETH central admission office, which will verify the validity of your certificates -->
 
 ## Your Workplace
 
@@ -127,8 +129,10 @@ We look forward to receiving your online application with the following document
   - A short **letter of motivation**
   - A **CV** 
   - The **Transcripts of Records** for both Bachelor and Master degrees, containing the list of courses taken and grades achieved
-  - Names and email addresses of people who could provide a recommendation/reference letter (between two and five)
+  - Names and email addresses of three people who could provide a recommendation/reference letter
   - Additional relevant documents: diplomas, certificates, theses, project reports, or published articles
+
+The provided documents and certificates will be checked for authenticity.
 
 The letter of motivation's purpose is to assess your interest and motivation in pursuing research in the field of Decentralized Resource-constrained Machine Learning, and the match with the eDIAMOND project's goals.
 For example, you can mention:
@@ -141,9 +145,11 @@ For example, you can mention:
   - Anything else that you believe is worth knowing about you and that will be essential for the project's success.
 
 <!-- ([**dimaio@ethz.ch**](mailto:dimaio@ethz.ch)) -->
-Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)) or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)). For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
+Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)) or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)).
+For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
-Please note that we exclusively accept applications submitted through our [**ETH Job Portal**](https://jobs.ethz.ch/). Applications via email or postal services will *not* be considered.
+Please note that we exclusively accept applications submitted through our [**ETH Job Portal**](https://jobs.ethz.ch/).
+Applications via email or postal services will *not* be considered.
 
 ## About ETH Zürich
 
