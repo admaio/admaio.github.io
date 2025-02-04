@@ -1,6 +1,6 @@
 ---
 title: 'PhD Position in Decentralized Resource-Constrained Machine Learning'
-summary: 'Start date: 1.9.2025, Workload 100%, Zürich (in-person), fixed-term (4 years)'
+summary: 'Start date: 1.9.2025, Workload 100%, Zurich (in-person), fixed-term (4 years)'
 date: 2025-02-03
 
 # Featured image
@@ -19,7 +19,7 @@ tags:
 
 ## The hosting group
 
-The [**Distributed Computing (DISCO) Group**](http://disco.ethz.ch/publications.html) is a research group at ETH Zürich, led by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger).
+The [**Distributed Computing (DISCO) Group**](http://disco.ethz.ch/publications.html) is a research group at ETH Zurich, led by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger).
 We are interested in a variety of research topics on new and upcoming areas off the beaten paths.
 Our three main areas of research are machine learning, distributed systems, and theory of networks.
 Within these three areas, we are currently working on several projects: graph neural networks, natural language processing, algorithmic learning, fault-tolerance, blockchains, consensus, cryptocurrencies, digital money, central bank digital currency, decentralized finance, financial networks, e-democracy, voting, social networks, online analysis with delay, and theory of distributed algorithms.
@@ -27,11 +27,11 @@ In our group, we work on both theory and practice: some members of our group foc
 
 ## Job description
 
-The Distributed Computing group at the ETH Zürich is looking for a PhD candidate to work on the [**SNSF Ambizione 2023 project "eDIAMOND: Efficient Distributed Intelligent Applications in Mobile-Network Dynamics"**](https://data.snf.ch/grants/grant/223443), starting on 1 September 2025.
+The Distributed Computing group at ETH Zurich is looking for a PhD candidate to work on the [**SNSF Ambizione 2023 project "eDIAMOND: Efficient Distributed Intelligent Applications in Mobile-Network Dynamics"**](https://data.snf.ch/grants/grant/223443), starting on 1 September 2025.
 The eDIAMOND project aims at developing new methods and systems for decentralized and distributed data-driven methods for Federated Learning on resource-constrained networks.
-Your research within the project will contribute towards your doctoral degree at ETH Zürich.
+Your research within the project will contribute towards your doctoral degree at ETH Zurich.
 You will be supervised by [**Prof. Dr. Roger Wattenhofer**](https://disco.ethz.ch/members/wroger) and [**Dr. Antonio Di Maio**](https://admaio.github.io/).
-During the project, you will have the opportunity to have inter-institutional, cross-border, international collaboration with other top-ranked universities.
+<!-- During the project, you will have the opportunity to have inter-institutional, cross-border, international collaboration with other top-ranked universities. -->
 
 You will be entrusted with designing, developing, and evaluating data-driven methods, algorithms, and systems for three independent but related research directions in the eDIAMOND project, namely:
 1. Distributing model training and inference over a network of resource-constrained devices.
@@ -43,43 +43,11 @@ Each research direction is composed of a sequence of Tasks that will collectivel
 For each Task, you will be responsible for the typical scientific research workflow: motivating the problem, identifying the main methodological shortcomings in the literature, design and develop novel systems, plan and execute experiments, and report findings in articles to be published at top venues according to the project's schedule.
 Periodic meetings and feedback will ensure the success of your degree and of the project overall.
 
-### Terms of employment
-
-ETH Zürich is considered to be one of the top academic institutions in Europe.
-It is usually ranked in the top 10 in the world.
-Sometimes our area is ranked number [one](https://disco.ethz.ch/misc/ETHCSRanked1.pdf) in the world.
-The completion target for a PhD is between 3 and 4 years, with a major milestone (PhD Aptitude Colloquium) at the end of the first year.
-
-#### Salary
-
-ETH offers some of the most competitive and attractive [salaries](https://ethz.ch/en/the-eth-zurich/working-teaching-and-research/welcome-center/employment-contract-and-salary/salary.html) worldwide.
-Your salary will be determined based on your qualifications and experience, with five distinct salary ranks.
-
-#### Taxes and other deductions
-
-The income tax is currently about 8% for the above mentioned starting salary.
-The total deduction for social security, pension plan and accident insurance is about 13%. There is no tuition at ETH Zürich.
-
-#### Paid vacation
-
-Employees are entitled to 25 days of paid vacation per year.
-
-#### Health insurance
-
-Swiss residents are required to buy their own health insurance. The monthly premium for basic health insurance starts at approximately CHF 120, depending on your insurance plan.
-
-#### Work visa for foreign citizens
-
-The citizens of most EU-member countries are eligible to an immediate work visa in Switzerland. Citizens of new EU-member countries and candidates of other nationalities have to apply for a temporary work visa before entering Switzerland. ETH Zürich will take care of the due application process.
-
-#### Room and board, transportation
-
-ETH Zürich does not supply rooms or other housing opportunities on campus. Registered students are eligible for reduced prices at the campus’ cafeterias and special tariffs for public transportation.
-
 #### Other info
 
-- [The PhD Survival Guide from ETH Zürich](https://www.avethdev.ethz.ch/aveth-survival-guide/)
-- [All about the doctorate at ETH Zürich](https://www.ethz.ch/en/doctorate.html)
+- [Details on Terms of Employment](https://admaio.github.io/terms-of-employment)
+- [The PhD Survival Guide from ETH Zurich](https://www.avethdev.ethz.ch/aveth-survival-guide/)
+- [All about the doctorate at ETH Zurich](https://www.ethz.ch/en/doctorate.html)
 
 ## Your Profile
 
@@ -92,7 +60,7 @@ We are looking for a new member with the following profile:
       - **Automated Model Design and Tuning**: Neural Architecture Search, Hyperparameter Optimization
       - **Computer Networking**: Resource-Constrained Networking (e.g., Internet of Things), Wireless and Mobile Communications (e.g. IEEE 802.11, Bluetooth, etc.), Protocols (e.g., MAC, Network, and Transport)
       - **Mathematics**: Statistical Learning, Stochastic Processes (e.g., Percolation Theory, Queuing Theory, Age of Information), Network Calculus, Graph Theory, Convex and Non-convex Optimization, Approximation Algorithms.
-  1. An excellent **Master's degree** (or equivalent) in Computer Science, Engineering, Mathematics, or other fields related to the project's domain, from a reputable university, to be obtained at latest before 1 September 2025
+  1. An excellent **Master's degree** in Computer Science, Engineering, Mathematics, or other fields related to the project's domain, from a reputable university, to be obtained before 1 September 2025 (depending on visa requirements)
   1. A strong Transcript of Records, stating the list of passed exams (particularly those related to the project and the areas above) and their grades.
   1. Strong programming skills (i.e., Python and main Machine Learning frameworks such as Pytorch)
   1. Experience with scientific writing (e.g., reports, theses, and scientific articles)
@@ -104,7 +72,7 @@ Bonus points:
   - Experience with High Performance Computing (i.e., SLURM)
   - Experience with Git
 
-<!-- After selection, you will apply to the ETH central admission office, which will verify the validity of your certificates -->
+<!-- After selection, you will apply to ETH central admission office, which will verify the validity of your certificates -->
 
 ## Your Workplace
 
@@ -116,11 +84,11 @@ Bonus points:
 
 ## We offer
 
-ETH Zürich is a family-friendly employer with excellent working conditions. You can look forward to an exciting working environment, cultural diversity, and attractive offers and benefits.
-In line with our values, ETH Zürich encourages an inclusive culture. We promote equality of opportunity, value diversity and nurture a working and learning environment in which the rights and dignity of all our staff and students are respected.
+ETH Zurich is a family-friendly employer with excellent working conditions. You can look forward to an exciting working environment, cultural diversity, and attractive offers and benefits.
+In line with our values, ETH Zurich encourages an inclusive culture. We promote equality of opportunity, value diversity and nurture a working and learning environment in which the rights and dignity of all our staff and students are respected.
 Visit our Equal Opportunities and Diversity website to find out how we ensure a fair and open environment that allows everyone to grow and flourish.
 
-[Working, teaching and research at ETH Zürich](https://ethz.ch/en/the-eth-zurich/working-teaching-and-research.html)
+[Working, teaching and research at ETH Zurich](https://ethz.ch/en/the-eth-zurich/working-teaching-and-research.html)
 
 ## Curious? So are we
 
@@ -145,15 +113,16 @@ For example, you can mention:
   - Anything else that you believe is worth knowing about you and that will be essential for the project's success.
 
 <!-- ([**dimaio@ethz.ch**](mailto:dimaio@ethz.ch)) -->
-Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)) or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)).
+Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)). 
+<!-- or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)). -->
 For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
 Please note that we exclusively accept applications submitted through our [**ETH Job Portal**](https://jobs.ethz.ch/).
 Applications via email or postal services will *not* be considered.
 
-## About ETH Zürich
+## About ETH Zurich
 
-ETH Zürich is one of the world’s leading universities specialising in science and technology (ranked 6th worldwide in Engineering and Technology by QS and ranked 5th worldwide in Computer Science by THE in 2024). We are renowned for our excellent education, cutting-edge fundamental research and direct transfer of new knowledge into society. Over 30,000 people from more than 120 countries find our university to be a place that promotes independent thinking and an environment that inspires excellence. Located in the heart of Europe, yet forging connections all over the world, we work together to develop solutions for the global challenges of today and tomorrow.
+ETH Zurich is one of the world’s leading universities specialising in science and technology (ranked 6th worldwide in Engineering and Technology by QS and ranked 5th worldwide in Computer Science by THE in 2024). We are renowned for our excellent education, cutting-edge fundamental research and direct transfer of new knowledge into society. Over 30,000 people from more than 120 countries find our university to be a place that promotes independent thinking and an environment that inspires excellence. Located in the heart of Europe, yet forging connections all over the world, we work together to develop solutions for the global challenges of today and tomorrow.
 
 <!-- 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
