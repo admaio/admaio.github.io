@@ -112,8 +112,8 @@ For example, you can mention:
   - The subjects in which you have achieved excellent grades and how they are relevant to the project
   - Anything else that you believe is worth knowing about you and that will be essential for the project's success.
 
-<!-- ([**dimaio@ethz.ch**](mailto:dimaio@ethz.ch)) -->
-Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)). 
+<!-- ([**antonio.dimaio@unibe.ch**](mailto:antonio.dimaio@unibe.ch)) -->
+Questions regarding the position (not applications) should be directed to Dr. Antonio Di Maio ([**adimaio@ethz.ch**](mailto:adimaio@ethz.ch)). 
 <!-- or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)). -->
 For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
