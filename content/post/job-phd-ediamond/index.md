@@ -53,7 +53,7 @@ Periodic meetings and feedback will ensure the success of your degree and of the
 
 We are looking for a new member with the following profile:
   1. A strong interest and **motivation** to contribute to the eDIAMOND project's goals (see Job description section above)
-  1. **Theoretical and practical experience and passion** in at least one of the following topics (the more the better):
+  1. **Theoretical and practical experience and passion** in at least one of the following topics:
       - **Machine Learning**: Deep Learning, Federated Learning (vertical, horizontal), Split Learning, Model Selection, Knowledge Distillation, Low-Rank Adaptation (LoRA), Large Models (Language, Vision)
       - **Decentralized and Distributed Systems**: Gossip Protocols, Consensus Algorithms, (Byzantine) Fault Tolerance, Peer-to-Peer Networks
       - **Online Algorithms**: Partially-Observable Markov Decision Processes (POMDPs), Cooperative and Competitive Multi-Agent Reinforcement Learning (MARL), Multi-armed Bandits, Bayesian Optimization
