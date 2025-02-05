@@ -45,6 +45,7 @@ Periodic meetings and feedback will ensure the success of your degree and of the
 
 #### Other info
 
+- [Updated Information](https://admaio.github.io/post/job-phd-ediamond/)
 - [Details on Terms of Employment](https://admaio.github.io/terms-of-employment)
 - [The PhD Survival Guide from ETH Zurich](https://www.avethdev.ethz.ch/aveth-survival-guide/)
 - [All about the doctorate at ETH Zurich](https://www.ethz.ch/en/doctorate.html)
