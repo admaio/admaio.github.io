@@ -118,7 +118,7 @@ Questions regarding the position (not applications) should be directed to Dr. An
 <!-- or to Prof. Dr. Roger Wattenhofer ([**wattenhofer@ethz.ch**](mailto:wattenhofer@ethz.ch)). -->
 For further information about the hosting group please visit the website [**DISCO**](https://disco.ethz.ch/).
 
-Please note that we exclusively accept applications submitted through our [**ETH Job Portal**](https://jobs.ethz.ch/).
+Please note that we exclusively accept applications submitted through the ETH Job Portal at the official [**>>JOB APPLICATION PAGE<<**](https://jobs.ethz.ch/job/view/JOPG_ethz_WY2twh5EVSqTgaOh5E).
 Applications via email or postal services will *not* be considered.
 
 ## About ETH Zurich
