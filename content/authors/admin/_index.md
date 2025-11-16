@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:antonio.dimaio@unibe.ch'
+    url: 'mailto:dimaio@ethz.ch'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/AntonioDiMaio
@@ -203,12 +203,11 @@ awards:
 
 ## About Me
 
-I will be an SNSF Ambizione Fellow at the ETH Zürich in September 2025, hosted by the <a href="https://disco.ethz.ch/">Distributed Computing (DISCO)</a> group.
-I am now a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence in the <a href="https://www.cds.unibe.ch/">Communication and Distributed Systems (CDS)</a>  group at the University of Bern, Switzerland.
+I am an Established Researcher at ETH Zürich, Switzerland, hosted by the <a href="https://disco.ethz.ch/">Distributed Computing (DISCO)</a> group. Since September 2025, I am an SNSF Ambizione Fellow under the <a href="https://data.snf.ch/grants/grant/223443">eDIAMOND</a> project.
+<!-- Previously, I was a Postdoctoral Researcher in Mobile Networking and Distributed Artificial Intelligence in the <a href="https://www.cds.unibe.ch/">Communication and Distributed Systems (CDS)</a>  group at the University of Bern, Switzerland. -->
 
 My research focuses on Decentralized and Distributed Artificial Intelligence on Mobile Resource-constrained Networks. I study methods to design and operate systems in which a large number of independent mobile devices with limited computation, communication, energy, and sensing capacity cooperate to build a global intelligence through opportunistic knowledge exchange and workload sharing.
 
-<!-- led by Prof. Dr. Torsten Braun. -->
 <!-- He obtained his PhD in Computer Engineering from the University of Luxembourg in June 2020, with a thesis on routing and content dissemination in software-defined vehicular networking. -->
 <!-- He was the Lecturer of Decision Making at the United Business Institutes and Teaching Assistant for the Bachelor courses in Compter Networks and Operating Systems from 2020 to date. He received the award "Recognition of Outstanding Teaching Achievements" and the "Faculty Teaching Award for Young Scientists" for his course on Mobile Quantum Networking in 2023.
 He published 30+ articles in international conferences and journals, and he received the Best Student Paper award at NOMS 2024, Seoul, South Korea, for his work "Drift-Aware Policy Selection for Slice Admission Control". -->
