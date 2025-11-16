@@ -75,14 +75,6 @@ Bonus points:
 
 <!-- After selection, you will apply to ETH central admission office, which will verify the validity of your certificates -->
 
-## Your Workplace
-
-<iframe
-        class="media__element"
-        allowfullscreen
-        src="https://www.google.com/maps/embed/v1/place?q=Gloriastrasse+35+8006+Zurich+Zurich+Switzerland&key=AIzaSyChW-yZSxAIkvbp_iJGxX1s65OwiPaWnyE"
-></iframe>
-
 ## We offer
 
 ETH Zurich is a family-friendly employer with excellent working conditions. You can look forward to an exciting working environment, cultural diversity, and attractive offers and benefits.
