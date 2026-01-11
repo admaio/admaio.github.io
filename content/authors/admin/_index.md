@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: SNSF Ambizione Fellow
+role: Researcher and Lecturer \n SNSF Ambizione Fellow
 # role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
@@ -83,6 +83,13 @@ education:
       Bachelor's Thesis in "Image Processing and Artificial Vision" with title: "Design and implementation of an eye blink detection Android application (<a href="https://youtu.be/R8m4ovTZSYA">VIDEO</a>)".
 
 work:
+  - position: Lecturer
+    company_name: ETH Zürich, Switzerland
+    company_url: 'https://www.ethz.ch/'
+    company_logo: ''
+    date_start: 2025-09-01
+    summary: |
+      Teaching the Computational Thinking course, 160+ Bachelor students.
   - position: Established Researcher
     company_name: ETH Zürich, Switzerland
     company_url: 'https://www.ethz.ch/'
