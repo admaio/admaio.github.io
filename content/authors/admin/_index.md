@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher and Lecturer \n SNSF Ambizione Fellow
+role: Researcher and Lecturer <br> SNSF Ambizione Fellow
 # role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
